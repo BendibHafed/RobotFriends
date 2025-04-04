@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RobotFriends/static/css/main.765c5cba.css",
+    "main.js": "/RobotFriends/static/js/main.4e3b56c3.js",
+    "static/js/453.4702491d.chunk.js": "/RobotFriends/static/js/453.4702491d.chunk.js",
+    "static/media/BlackFuture-gx1q3.woff": "/RobotFriends/static/media/BlackFuture-gx1q3.05c5dfc48ece85eb660f.woff",
+    "index.html": "/RobotFriends/index.html",
+    "main.765c5cba.css.map": "/RobotFriends/static/css/main.765c5cba.css.map",
+    "main.4e3b56c3.js.map": "/RobotFriends/static/js/main.4e3b56c3.js.map",
+    "453.4702491d.chunk.js.map": "/RobotFriends/static/js/453.4702491d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.765c5cba.css",
+    "static/js/main.4e3b56c3.js"
+  ]
+}
